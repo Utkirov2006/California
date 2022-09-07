@@ -1,0 +1,10 @@
+.cards-left {
+      height: auto;
+      width: 300px;
+}
+
+@media (max-width: 576px) {
+      .cards-left {
+            width: 100%;
+      }
+}
